@@ -1,0 +1,38 @@
+UPPER --> capital kore
+LOWER --> small letter kore dey
+
+
+ABS --> always possitive value kore dibe
+
+
+DEGREES (RADIAN) --> DEGREES baniye dibe
+RADIANS (DEGREE) --> RADIAN baniye dibe
+
+
+COS(RADIAN E DEGREE DITE HOBE) --> COS ER VALUE DIBE
+    COS(RADIANS(90)) --> degree ke radian e convert kore pore cos er value dibe
+ACOS() --> COS(INVERSE) er man
+SIN() --> SAME AS COS
+ASIN() --> SAME AS ACOS
+TAN() --> SAME AS COS
+ATAN() --> --> SAME AS ACOS
+
+
+CEIL --> 25.6  --> 26 DIBE
+FLOOR --> 25.6 --> 25 DIBE
+DIV --> 10/2 = 5 DIBE
+EXP --> E^10 == EXP(10)
+
+GREATEST(26,15,58) --> BORO TA DIBE
+LEAST(21,25,36,45) --> CHOTO TA DIBE
+LN --> ln = loge 
+LOG --> ln 10 --> log(10)
+LOG10 --> log10 --> 10 base log
+
+MOD --> 5 MOD 2 = 1
+PI() --> 3.1416
+POW --> 2^5 == POW(2,5)
+RAND() --> RANDOM VALUE 0 THEKE 10 ER MODDHE
+ROUND --> 12.567 --> ROUND(12.6854, 2) = 12.69
+SQRT --> ROOT kore
+TRUNCATE --> TRUNCATE(12.567, 2) == 12.56 DIBE
