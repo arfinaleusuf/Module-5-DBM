@@ -1,0 +1,6 @@
+GROUP BY, HAVING FUMCTIONS
+
+GROUP by --> department wise
+            SELECT DEPARTMENT_ID, MAX(SALARY)
+            FROM EMPLOYEES
+            GROUP BY DEPARTMENT_ID;
